@@ -1,4 +1,4 @@
-<img width="1280" alt="hello!" src="cover-gh.png">
+<img width="1280" alt="hello!" src="cover-gh.jpg">
 <br>
 
 <h1 align="center">Hi 👋, I'm bayuncao</h1>
