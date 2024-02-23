@@ -8,11 +8,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayuncao" alt="bayuncao" /></a> </p>
 
-## About Me
+## 🗿 **About Me**
+I am a Taoist devotee with a love for technology and a passion for underlying principles and reasoning. I have many years of product and development experience, and can be called a passable full-stack engineer.
+By chance I entered the field of big language modeling, and now I focus on AI application practice landing, independent product development and big model vulnerability mining.
 
-
-
-<br><br>
+<br>
 
 ## 🛠️ **Building Projects with:**
 <p align="left">
@@ -23,7 +23,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+## 🖇️ **Connect With Me:**
 <p align="left">
 <a href="[https://medium.com/bayuncao](https://bayuncao.medium.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bayuncao" height="30" width="40" /></a>
 </p>
