@@ -38,11 +38,18 @@ By chance I entered the field of big language modeling, and now I focus on AI ap
 
 <br>
 
+## ✍️ **My Writing**
+1. [庖丁解Prompt Engineering · 提示工程系列大课](https://juejin.cn/column/7339470312663367706)
+2. [庖丁解Transformer系列 · Transformer源码精读](https://juejin.cn/column/7339475385762873354)
+
 
 ## 🖇️ **Connect With Me:**
 <p align="left">
-<a href="[https://medium.com/bayuncao](https://bayuncao.medium.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bayuncao" height="30" width="40" /></a>
+<a href="https://juejin.cn/user/1339636288849480" target="blank"><img align="center" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg" alt="bayuncao" height="22" width="107" /></a>
+
 </p>
+
+## 📈 **Github Trends**
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bayuncao&theme=whatsapp-dark)](https://git.io/streak-stats)
