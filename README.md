@@ -20,7 +20,24 @@ By chance I entered the field of big language modeling, and now I focus on AI ap
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## ✂️ Vulnerability No.
+
+|  |  |
+| --- | --- |
+| CVE-2023-5016 | CNVD-2023-86615 |
+| CVE-2023-5022 | CNVD-2024-00725 |
+| CVE-2023-6656 | CNVD-2023-85540 |
+| CVE-2024-0654 | CNVD-2024-00898 |
+| CVE-2024-0936 | CNVD-2024-01790 |
+| CVE-2024-0937 | CNVD-2024-03273 |
+| CVE-2024-0959 | CNVD-2024-09377 |
+| CVE-2024-0960 | CNVD-2024-07069 |
+| CVE-2024-1432 | CNVD-2024-07418 |
+| CVE-2024-1748 |     |
+
+
+<br>
+
 
 ## 🖇️ **Connect With Me:**
 <p align="left">
