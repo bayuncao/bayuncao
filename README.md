@@ -1,4 +1,4 @@
-<img width="1280" alt="hello!" src="cover-gh.jpg">
+<img width="1280" alt="hello!" src="cover-gh.png">
 
 <h1 align="center">Hi 👋, I'm bayuncao</h1>
 <h3 align="center">Technical Product Manager | Indie Developer | AI Security Researcher</h3>
