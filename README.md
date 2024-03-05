@@ -33,7 +33,7 @@ By chance I entered the field of big language modeling, and now I focus on AI ap
 | CVE-2024-0959 | CNVD-2024-09377 |
 | CVE-2024-0960 | CNVD-2024-07069 |
 | CVE-2024-1432 | CNVD-2024-07418 |
-| CVE-2024-1748 |     |
+| CVE-2024-1748 | CNVD-2024-11551 |
 | CVE-2024-2057 |     |
 
 
