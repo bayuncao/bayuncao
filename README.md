@@ -35,6 +35,7 @@ By chance I entered the field of big language modeling, and now I focus on AI ap
 | CVE-2024-1432 | CNVD-2024-07418 |
 | CVE-2024-1748 | CNVD-2024-11551 |
 | CVE-2024-2057 |     |
+| CVE-2024-25359 | |
 
 
 <br>
