@@ -8,6 +8,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayuncao" alt="bayuncao" /></a> </p>
 
 ## 🗿 **About Me**
+
+- Creator of [Kelp AI](https://github.com/bayuncao/kelp)
+
+
 I am a Taoist devotee with a love for technology and a passion for underlying principles and reasoning. I have many years of product and development experience, and can be called a passable full-stack engineer.
 By chance I entered the field of big language modeling, and now I focus on AI application practice landing, independent product development and big model vulnerability mining.
 
